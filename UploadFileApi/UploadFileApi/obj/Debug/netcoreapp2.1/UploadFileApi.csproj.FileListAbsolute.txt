@@ -1,0 +1,14 @@
+C:\Apttus\My Git Repo\UploadFileApi\UploadFileApi\bin\Debug\netcoreapp2.1\UploadFileApi.deps.json
+C:\Apttus\My Git Repo\UploadFileApi\UploadFileApi\bin\Debug\netcoreapp2.1\UploadFileApi.runtimeconfig.json
+C:\Apttus\My Git Repo\UploadFileApi\UploadFileApi\bin\Debug\netcoreapp2.1\UploadFileApi.runtimeconfig.dev.json
+C:\Apttus\My Git Repo\UploadFileApi\UploadFileApi\bin\Debug\netcoreapp2.1\UploadFileApi.dll
+C:\Apttus\My Git Repo\UploadFileApi\UploadFileApi\bin\Debug\netcoreapp2.1\UploadFileApi.pdb
+C:\Apttus\My Git Repo\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.csprojAssemblyReference.cache
+C:\Apttus\My Git Repo\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.csproj.CoreCompileInputs.cache
+C:\Apttus\My Git Repo\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.RazorAssemblyInfo.cache
+C:\Apttus\My Git Repo\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.RazorAssemblyInfo.cs
+C:\Apttus\My Git Repo\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.AssemblyInfoInputs.cache
+C:\Apttus\My Git Repo\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.AssemblyInfo.cs
+C:\Apttus\My Git Repo\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.RazorTargetAssemblyInfo.cache
+C:\Apttus\My Git Repo\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.dll
+C:\Apttus\My Git Repo\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.pdb
