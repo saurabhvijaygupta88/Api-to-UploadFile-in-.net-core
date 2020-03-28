@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Concurrent;
+using System.Collections.Generic;
 using System.IO;
 using System.Threading.Tasks;
 
@@ -11,9 +13,12 @@ namespace UploadFileApi.Controllers
     {
         // GET api/values
         [HttpGet]
-        public ActionResult<string> Get()
+        public ActionResult<Dictionary<string, string>> Get()
         {
-            return "value";
+            Dictionary<string, string> keyValuePairs = new Dictionary<string, string>();
+            keyValuePairs.Add("key1", "value1");
+            keyValuePairs.Add("key2", "value2");
+            return keyValuePairs;
         }
 
         [HttpPost("uploads")]
@@ -29,6 +34,13 @@ namespace UploadFileApi.Controllers
             }
             return Content(result);
         }
+
+        [HttpPost("bulkupsert")]
+        public async Task<IActionResult> BulkUpsert([FromBody]ConcurrentDictionary<string, string> json)
+        {
+            return Content(json.ToString());
+        }
+
 
     }
     public class UploadFile
